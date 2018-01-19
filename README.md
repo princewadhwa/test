@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # test
 =======
 hello-world
