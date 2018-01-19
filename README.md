@@ -1,4 +1,3 @@
-# test
 =======
 hello-world
 ===========
@@ -24,4 +23,4 @@ Build and run using Docker Compose:
 	$ docker-cloud stack up
 
 Hello world!
->>>>>>> 031bc94ba5846cf74f4274998a731ed0c0632f94
+
