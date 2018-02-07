@@ -17,7 +17,7 @@
 </head>
 <body>
 	<img id="logo" src="logo.png" />
-	<h1><?php echo "Hello ECS ".($_ENV["NAME"]?$_ENV["NAME"]:"world!!how are you!!Who are you!!")."!"; ?></h1>
+	<h1><?php echo "Hello ECS ".($_ENV["NAME"]?$_ENV["NAME"]:"world!!how are you!!where")."!"; ?></h1>
 	<?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?></h3><?php } ?>
 	<?php
 	$links = [];
